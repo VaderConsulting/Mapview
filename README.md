@@ -1,6 +1,6 @@
 # Mapview
 
-VB6 working copy of `Mapview` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: CSC.
+CSC VB6 map browser over Access `MAP.mdb` via MSADODC (`MSADODC.OCX`). Pages Mapinfo/gifinfo corner records (nw/ne/sw/se + filename) and loads Colour or Black and White map images from `c:\images\` with Right navigation.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `Project1` (`Mapview.vbp`) | VB6 | WinForms exe | Project1 |
+| `Project1` (`Mapview.vbp`) | VB6 | WinForms exe | Access MAP.mdb map browser via MSADODC |
 
 ## How to open
 
@@ -30,4 +30,4 @@ Company names in project files: CSC.
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT (c) 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
